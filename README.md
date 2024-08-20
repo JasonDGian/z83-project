@@ -69,7 +69,7 @@ The Z83-F supports Wi-Fi (2.4GHz/5.8GHz) and Bluetooth 4.0 for seamless wireless
 
 - :triangular_flag_on_post: **Hardware Compatibility:** The limited hardware resources present compatibility issues that need addressing, which will be explored further.
 
-## :hammer_and_wrench: Objectives :checkered_flag:
+## :checkered_flag: Objectives
 Initially focused on just enhancing the cooling system, the project evolved as new ideas and changes emerged. The updated objectives are:
 
 - **Enhance the Cooling System:** Lower temperatures and prevent sudden shutdowns.
@@ -78,3 +78,10 @@ Initially focused on just enhancing the cooling system, the project evolved as n
 - **Extend Storage Capacity:** Increase the available storage.
 - **Improve the Casing:** Upgrade the case to accommodate the new components and protect the hardware.
 
+## :construction: Available Tools
+In my toolkit, I have an FDM 3D printer, a resin printer, several photo printers, and a range of electronics and software tools. Additionally, I’ll be utilizing spare parts such as 40mm and 30mm fans, Wi-Fi cards, sound cards, and more.
+
+##  :hammer_and_wrench: The project progress.
+Check out my progress and current results!
+- [Cooling improvements.](cooling.md)
+- 
