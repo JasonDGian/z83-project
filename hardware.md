@@ -311,7 +311,9 @@ Description.
 </table>
    
 ---  
-   
+
+
+   https://pdf1.alldatasheet.com/datasheet-pdf/view/1132504/XPOWER/AXP288C.html
 
 
 
