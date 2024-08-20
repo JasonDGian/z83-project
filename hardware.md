@@ -2,11 +2,30 @@
 
 While examining the board, I began by gathering information about its components, given my limited knowledge as a hobbyist. Below is a detailed list of the elements I found on this specific board and the board itself.
 
-## 📍The board.
+## 📍 The device itself.
+This is how the device looks from the outside.
+<p align="center">
+<img width="800px" src="https://github.com/user-attachments/assets/e08eeedc-fbfa-4628-b708-f16617647897"> 
+</p>
+<p align="center">
+<img width="200px" src="https://github.com/user-attachments/assets/aeed7711-5448-4746-ab1f-9fe2c96458c4">   
+<img width="200px" src="https://github.com/user-attachments/assets/b3d889fb-69be-457d-abc3-7dcea90e2256"> 
+<img width="200px" src="https://github.com/user-attachments/assets/f19dd2ba-5779-414f-b9aa-107edcc12bf7">
+<img width="200px" src="https://github.com/user-attachments/assets/e78f14bc-004f-459d-bfb7-33a29cae0137"> 
+</p>
+
+
+
+
+
+
+
+## 📍 The board.
 Here are two pictures of the board from top and bottom.   
-<img width="500px" src="https://github.com/user-attachments/assets/741e528a-f210-4b78-8e00-0d0bb60bde43">
-<img width="500px" src="https://github.com/user-attachments/assets/0c0785cd-02ea-41ee-9494-d15b38486834">
-   
+<p align="center">
+   <img width="500px" src="https://github.com/user-attachments/assets/741e528a-f210-4b78-8e00-0d0bb60bde43">
+   <img width="500px" src="https://github.com/user-attachments/assets/0c0785cd-02ea-41ee-9494-d15b38486834">
+</p> 
 ---
    
 ## Elements on the board.
