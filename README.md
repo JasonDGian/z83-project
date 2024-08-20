@@ -72,9 +72,9 @@ The Z83-F supports Wi-Fi (2.4GHz/5.8GHz) and Bluetooth 4.0 for seamless wireless
 ## :hammer_and_wrench: Objectives :checkered_flag:
 Initially focused on just enhancing the cooling system, the project evolved as new ideas and changes emerged. The updated objectives are:
 
-    Enhance the Cooling System: Lower temperatures and prevent sudden shutdowns.
-    Switch to a Lighter OS: Replace Windows 10 Pro with a more efficient operating system better suited for low-resource machines.
-    Resolve Wi-Fi Compatibility Issues: Fix any connectivity problems.
-    Extend Storage Capacity: Increase the available storage.
-    Improve the Casing: Upgrade the case to accommodate the new components and protect the hardware.
+- **Enhance the Cooling System:** Lower temperatures and prevent sudden shutdowns.
+- **Switch to a Lighter OS:** Replace Windows 10 Pro with a more efficient operating system better suited for low-resource machines.
+- **Resolve Wi-Fi Compatibility Issues:** Fix any connectivity problems.
+- **Extend Storage Capacity:** Increase the available storage.
+- **Improve the Casing:** Upgrade the case to accommodate the new components and protect the hardware.
 
