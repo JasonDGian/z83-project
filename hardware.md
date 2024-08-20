@@ -6,12 +6,12 @@ While examining the board, I began by gathering information about its components
 Here are two pictures of the board from top and bottom.   
 <img width="500px" src="https://github.com/user-attachments/assets/741e528a-f210-4b78-8e00-0d0bb60bde43">
 <img width="500px" src="https://github.com/user-attachments/assets/0c0785cd-02ea-41ee-9494-d15b38486834">
-
-## Elements on the board.
-Analyzing the board I've found the following elements. 
    
 ---
    
+## Elements on the board.
+Analyzing the board I've found the following elements. 
+
 ## 📍 SOC Processor.
 This processor is a System on Chip (SoC), integrating multiple critical components into a single chip. It combines the CPU, graphics processor, I/O controller, and other essential functions.   
 - Integrated Intel HD Graphics 400.
@@ -94,9 +94,8 @@ This processor is a System on Chip (SoC), integrating multiple critical componen
           </td>
       </tr>
 </table>
-
-
----
+   
+---  
    
 ## 📍 Storage.
 This is the 'hard disk' on the device. Extremely small in size but packs 64GB capacity.
@@ -145,9 +144,9 @@ This is the 'hard disk' on the device. Extremely small in size but packs 64GB ca
           </td>
       </tr>
 </table>
-
----
-
+   
+---  
+   
 ## 📍 Memory.
 LPDDR3 Memory flash chip.   
 This memory component is part of the series with no specific name but is designed to provide high-quality and reliable memory performance.
@@ -157,7 +156,7 @@ This memory component is part of the series with no specific name but is designe
                   <table>
                           <tr>
                                   <td>Name</td>
-                                  <td>K3QF0F00AM-FGCF</td>
+                                  <td>DDR Memory Chip - 943060-K3QF0F00AM-FGCF</td>
                           </tr>
                           <tr>
                                   <td>Type</td>
@@ -183,5 +182,117 @@ This memory component is part of the series with no specific name but is designe
           </td>
       </tr>
 </table>
+   
+---  
+   
+## 📍 Lan Network Interface.
+RTL8111F Integrated Gigabit Ethernet controller for PCI Express applications.
+    
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td>Realtek  **RTL8111F**  Gigabit  Ethernet  controller </td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td>Ethernet controller</td>
+                          </tr>
+                          <tr>
+                                  <td>Speed</td>
+                                  <td>10/100/1000Mbps</td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/cdbdb787-3808-40d6-9b3a-2db431651a75"></p>
+                  <p align="center" > <a href="https://www.alldatasheet.com/datasheet-pdf/pdf/1222184/REALTEK/RTL8111F.html">Datasheet<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
+
+   
+## 📍 Title.
+Description.
+    
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Packaging</td>
+                                  <td></td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src=""></p>
+                  <p align="center" > <a href="">Official site<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
+   
+
+## 📍 Title.
+Description.
+    
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Packaging</td>
+                                  <td></td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src=""></p>
+                  <p align="center" > <a href="">Official site<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
+   
+
 
 
