@@ -206,6 +206,7 @@ This memory component is part of the series with no specific name but is designe
    
 ## 📍 Lan Network Interface.
 RTL8111F Integrated Gigabit Ethernet controller for PCI Express applications.
+The RTL8111F is a Gigabit Ethernet controller designed for PCI Express, offering high network performance and efficiency. It supports various features like NDIS5/6, checksum offloading, VLAN, and Receive-Side Scaling (RSS), which reduce CPU usage and improve network throughput. It uses PCI Express technology, providing better performance than conventional PCI while remaining compatible with existing infrastructure. This controller is versatile, making it suitable for desktops, servers, workstations, and embedded systems.
     
 <table>
       <tr>
@@ -236,7 +237,7 @@ RTL8111F Integrated Gigabit Ethernet controller for PCI Express applications.
 
    
 ## 📍 Sound card.
-
+The ALC5651 is a high performance, low power, dual I2S interface audio CODEC. First I2S interface can support dual mode: normal I2S and I2S with TDM (Time Division Multiplexing) interface. ALC5651 only requires two voltage supplies and consume ultra low power, making it ideal for mobile devices.   
     
 <table>
       <tr>
@@ -244,23 +245,15 @@ RTL8111F Integrated Gigabit Ethernet controller for PCI Express applications.
                   <table>
                           <tr>
                                   <td>Name</td>
-                                  <td></td>
+                                  <td>ALC-5651</td>
                           </tr>
                           <tr>
                                   <td>Type</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td>Frequency</td>
-                                  <td></td>
+                                  <td>Ultra-Low Power Two-Channel Audio CODEC   </td>
                           </tr>
                           <tr>
                                   <td>Manufacturer</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td>Packaging</td>
-                                  <td></td>
+                                  <td>Realtek Semiconductor Corp.</td>
                           </tr>
                   </table> 
           </td>
