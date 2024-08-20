@@ -216,8 +216,8 @@ RTL8111F Integrated Gigabit Ethernet controller for PCI Express applications.
 ---  
 
    
-## 📍 Title.
-Description.
+## 📍 Sound card.
+
     
 <table>
       <tr>
@@ -246,12 +246,12 @@ Description.
                   </table> 
           </td>
           <td>
-                  <p align="center"> <img align="right" height="190px" src=""></p>
-                  <p align="center" > <a href="">Official site<a/></p>  
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/0c6964d4-5405-4278-b9e1-825af2b2c8f1"></p>
+                  <p align="center" > <a href="https://pdf1.alldatasheet.com/datasheet-pdf/view/1132330/REALTEK/ALC5651.html">Official site<a/></p>  
           </td>
       </tr>
 </table>
-   
+
 ---  
    
 
