@@ -13,11 +13,14 @@ Analyzing the board I've found the following elements.
 ---
    
 ## 📍 SOC Processor.
-This processor is a System on Chip (SoC), integrating multiple critical components into a single chip. It combines the CPU, graphics processor, I/O controller, and other essential functions.
+This processor is a System on Chip (SoC), integrating multiple critical components into a single chip. It combines the CPU, graphics processor, I/O controller, and other essential functions.   
+- Integrated Intel HD Graphics 400.
+- Supports DirectX 11.2, OpenGL 4.3, and OpenCL 1.2
+- Supports DDR3L or LPDDR3 memory, up to 1866 MT/s.
 
 
 >[!NOTE]
-> In theory, the processor only is capable of handling 2GB of RAM, but with the paired memory it actually handles 4GB with no problem.
+> In theory, the processor only is capable of handling 2GB of RAM, but paired with the right memory it actually handles up to 8GB with no problem.
 
 <table>
       <tr>
@@ -32,6 +35,10 @@ This processor is a System on Chip (SoC), integrating multiple critical componen
                                   <td> 1.44GHz - 1.92GHz</td>
                           </tr>
                           <tr>
+                                  <td>Cores - Threads</td>
+                                  <td>4 - 1</td>
+                          </tr>
+                          <tr>
                                   <td>Secure boot.</td>
                                   <td>YES</td>
                           </tr>
@@ -41,7 +48,7 @@ This processor is a System on Chip (SoC), integrating multiple critical componen
                           </tr>
                           <tr>
                                   <td>Cache</td>
-                                  <td>2MB</td>
+                                  <td>2MB L2</td>
                           </tr>
                           <tr>
                                   <td>SDP</td>
