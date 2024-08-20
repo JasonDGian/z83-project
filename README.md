@@ -35,9 +35,9 @@ The main objective of this project was to improve the cooling system, but that f
 
 --- 
 
-<!--
+
 https://www.minisforum.com/front/support/3/Z83-F/W
--->
+
 -->
 # 📌 Minisforum Z83-F Mod Project
 
