@@ -150,8 +150,7 @@ This is the 'hard disk' on the device. Extremely small in size but packs 64GB ca
 
 ## 📍 Memory.
 LPDDR3 Memory flash chip.   
-FBGA-256 DDR SDRAM ROHS.
-I haven't found the exact piece datasheet, but I've linked a very similar unit. 
+This memory component is part of the series with no specific name but is designed to provide high-quality and reliable memory performance.
 <table>
       <tr>
           <td> 
@@ -165,24 +164,12 @@ I haven't found the exact piece datasheet, but I've linked a very similar unit.
                                   <td>DDR SDRAMDDR SDRAM</td>
                           </tr>
                           <tr>
-                                  <td></td>
-                                  <td></td>
+                                  <td>Frequency</td>
+                                  <td>1866MHz</td>
                           </tr>
                           <tr>
-                                  <td></td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td></td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td></td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td></td>
-                                  <td></td>
+                                  <td>Manufacturer</td>
+                                  <td>Samsung Electronics Co., Ltd.</td>
                           </tr>
                           <tr>
                                   <td>Packaging</td>
@@ -192,7 +179,7 @@ I haven't found the exact piece datasheet, but I've linked a very similar unit.
           </td>
           <td>
                   <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/d24dd69a-a759-4ae2-8e2b-050b4d8cf0f2"></p>
-                  <p align="center" > <a href="https://www.lcsc.com/datasheet/lcsc_datasheet_2107141900_Samsung-K3QF6F60AM-FGCF_C2847502.pdf">Datasheet of a similar unit<a/></p>  
+                  <p align="center" > <a href="https://datasheets.globalspec.com/ds/samsung-electronics/k3qf0f00am-fgcf/67e2211b-eb90-47ce-88f7-93c25d902be7">Product site<a/></p>  
           </td>
       </tr>
 </table>
