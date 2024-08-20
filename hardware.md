@@ -2,15 +2,96 @@
 
 While examining the board, I began by gathering information about its components, given my limited knowledge as a hobbyist. Below is a detailed list of the elements I found on this specific board and the board itself.
 
-## The board.
+## 📍The board.
 Here are two pictures of the board from top and bottom.   
 <img width="500px" src="https://github.com/user-attachments/assets/741e528a-f210-4b78-8e00-0d0bb60bde43">
 <img width="500px" src="https://github.com/user-attachments/assets/0c0785cd-02ea-41ee-9494-d15b38486834">
 
 ## Elements on the board.
-Analyzing the board I've found the following elements.
+Analyzing the board I've found the following elements. 
+   
+---
+   
+## 📍 SOC Processor.
+This processor is a System on Chip (SoC), integrating multiple critical components into a single chip. It combines the CPU, graphics processor, I/O controller, and other essential functions.
 
-### 📍 Storage.
+
+>[!NOTE]
+> In theory, the processor only is capable of handling 2GB of RAM, but with the paired memory it actually handles 4GB with no problem.
+
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td> Intel Atom® Processor X Series  x5-Z8350</td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td> 1.44GHz - 1.92GHz</td>
+                          </tr>
+                          <tr>
+                                  <td>Secure boot.</td>
+                                  <td>YES</td>
+                          </tr>
+                          <tr>
+                                  <td>Instruction set.</td>
+                                  <td>64-bit</td>
+                          </tr>
+                          <tr>
+                                  <td>Cache</td>
+                                  <td>2MB</td>
+                          </tr>
+                          <tr>
+                                  <td>SDP</td>
+                                  <td>2W</td>
+                          </tr>
+                          <tr>
+                                  <td>Lithography.</td>
+                                  <td>14nm</td>
+                          </tr>
+                          <tr>
+                                  <td>Max Memory Size (dependent on memory type).</td>
+                                  <td>2 GB</td>
+                          </tr>
+                          <tr>
+                                  <td>Graphics frequency.</td>
+                                  <td>200MHz - 500MHz</td>
+                          </tr>
+                          <tr>
+                                  <td>Graphics Max Memory.</td>
+                                  <td>2GB</td>
+                          </tr>
+                          <tr>
+                                  <td>Graphics Max Resolution.</td>
+                                  <td>1920*1080</td>
+                          </tr>
+                          <tr>
+                                  <td>Number of Supported displays.</td>
+                                  <td>2</td>
+                          </tr>
+                          <tr>
+                                  <td>PCI Express Revision.</td>
+                                  <td>2</td>
+                          </tr>
+                          <tr>
+                                  <td>USB Revision.</td>
+                                  <td>3</td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/92bdd133-4d47-40b5-be32-e99cf6d571b5"></p>
+                  <p align="center" > <a href="https://ark.intel.com/content/www/us/en/ark/products/93361/intel-atom-x5-z8350-processor-2m-cache-up-to-1-92-ghz.html">Official site<a/></p>  
+          </td>
+      </tr>
+</table>
+
+
+---
+   
+## 📍 Storage.
 This is the 'hard disk' on the device. Extremely small in size but packs 64GB capacity.
 
 <table>
@@ -60,16 +141,21 @@ This is the 'hard disk' on the device. Extremely small in size but packs 64GB ca
 
 ---
 
-### 📍 titlie.
-description
-
+## 📍 Memory.
+LPDDR3 Memory flash chip.   
+FBGA-256 DDR SDRAM ROHS.
+I haven't found the exact piece datasheet, but I've linked a very similar unit. 
 <table>
       <tr>
           <td> 
                   <table>
                           <tr>
                                   <td>Name</td>
-                                  <td></td>
+                                  <td>K3QF0F00AM-FGCF</td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td>DDR SDRAMDDR SDRAM</td>
                           </tr>
                           <tr>
                                   <td></td>
@@ -92,19 +178,16 @@ description
                                   <td></td>
                           </tr>
                           <tr>
-                                  <td></td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td></td>
-                                  <td></td>
+                                  <td>Packaging</td>
+                                  <td>FBGA-256</td>
                           </tr>
                   </table> 
           </td>
           <td>
-                  <p align="center"> <img align="right" height="190px" src=""></p>
-                  <p align="center" > <a href="">Official site<a/></p>  
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/d24dd69a-a759-4ae2-8e2b-050b4d8cf0f2"></p>
+                  <p align="center" > <a href="https://www.lcsc.com/datasheet/lcsc_datasheet_2107141900_Samsung-K3QF6F60AM-FGCF_C2847502.pdf">Datasheet of a similar unit<a/></p>  
           </td>
       </tr>
 </table>
+
 
