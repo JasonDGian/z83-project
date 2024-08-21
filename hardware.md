@@ -204,7 +204,7 @@ This is the main storage on the device. Extremely small in size but packs 64GB c
                   </table> 
           </td>
           <td>
-                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/95b8750f-5d7d-4ed4-b93f-3b29dacb5d36"></p>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/9825fafe-23c1-48b9-8d46-935498c09bec"></p>
                   <p align="center" > <a href="https://en.biwin.com.cn/product/detail/6">Official site<a/></p>  
           </td>
       </tr>
