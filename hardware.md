@@ -318,7 +318,6 @@ The ALC5651 is a high performance, low power, dual I2S interface audio CODEC.
    
 ## 📍 Power management IC.
 PMIC Optimized for Multi-core high-performance system. This PMIC is customized for Intel Cherry Trail platforms.
-
     
 <table>
       <tr>
@@ -333,10 +332,6 @@ PMIC Optimized for Multi-core high-performance system. This PMIC is customized f
                                   <td>Power management IC</td>
                           </tr>
                           <tr>
-                                  <td>Frequency</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
                                   <td>Manufacturer</td>
                                   <td>X-powers</td>
                           </tr>
@@ -347,8 +342,106 @@ PMIC Optimized for Multi-core high-performance system. This PMIC is customized f
                   </table> 
           </td>
           <td>
-                  <p align="center"> <img align="right" height="190px" src=""></p>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/a3b8a654-cb23-4eb5-8638-6b890b61be83"></p>
                   <p align="center" > <a href="https://dl.radxa.com/rockpix/docs/hw/AXP288C-X-Powers.pdf">Datasheet<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
+
+
+## 📍 Firmware chip or bios.
+Code Storage Flash Memory: This chip is widely used in consumer electronics, automotive, and industrial applications for firmware storage, data logging, and more.
+    
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td>Winbond - 25Q64FWSIQ</td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td>ROM chip for firmware </td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td>104MHz</td>
+                          </tr>
+                          <tr>
+                                  <td>Temperature range</td>
+                                  <td>-40℃ ~ 85℃ / -40℃ ~ 105℃</td>
+                          </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td>WinBond</td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/cd94e5b1-1e3c-49ee-90a1-9226229f4b51"></p>
+                  <p align="center" > <a href="https://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=en&partNo=W25Q64FW">Datasheet<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
+
+
+## 📍 Wireless Network Interface.
+WiFi 11ac + Bluetooth V4.2 module.
+The wireless module complies with IEEE 802.11 a/b/g/n/ac standard and it can achieve up
+to a speed of 433.3Mbps with single stream in 802.11ac draft to connect to the wireless LAN.
+The integrated module provides SDIO interface for Wi-Fi, UART / PCM interface for
+Bluetooth.
+- Concurrent Bluetooth, and WLAN operation
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td>AMPAK Tech AP6255 </td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td>Support Wi-Fi/Bluetooth functionalities</td>
+                          </tr>
+                          <tr>
+                                  <td>WiFi interface.</td>
+                                  <td>SDIO v2.0 / v3.0</td>
+                          </tr>
+                          <tr>
+                                  <td>Bluetooth Interface</td>
+                                  <td>UART / PCM</td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td>2.4GHz</td>
+                          </tr>
+                          <tr>
+                                  <td>Operating temperature</td>
+                                  <td>-30℃~+85℃</td>
+                          </tr>
+                          <tr>
+                                  <td>Speed</td>
+                                  <td>Up to 433.3Mbps</td>
+                          </tr>
+                          <tr>
+                                  <td>Support Interface</td>
+                                  <td>On-Board PCB Antenna</td>
+                          </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td>AMPAK Tech</td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/1ca800ca-1221-4200-a09e-737ed33d607c"></p>
+                  <p align="center" > <a href="https://www.lcsc.com/datasheet/lcsc_datasheet_2202221430_AMPAK-Tech-AP6255_C2687149.pdf">Datasheet<a/></p>  
           </td>
       </tr>
 </table>
