@@ -163,7 +163,7 @@ This processor is a System on Chip (SoC), integrating multiple critical componen
 ---  
    
 ## 📍 Storage.
-This is the 'hard disk' on the device. Extremely small in size but packs 64GB capacity.
+This is the main storage on the device. Extremely small in size but packs 64GB capacity.
 
 <table>
       <tr>
