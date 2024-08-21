@@ -1,7 +1,9 @@
 # :pushpin: Detailed Hardware Analysis
-
+In this document, I provide an overview of some general information, along with more in-depth and detailed insights about specific components found on the device's board. Please note that some of the information may be redundant, and there might be slight inaccuracies in the details.
+   
 ## 📍 The device itself.
-This is how the device looks from the outside.
+The package includes instructions, an HDMI cable, a power supply, and a mounting bracket, which is particularly useful for attaching the unit behind a monitor using a VESA mounting system or for mounting it on the wall. This is how the device looks from the outside.   
+
 <p align="center">
 <img width="800px" src="https://github.com/user-attachments/assets/e08eeedc-fbfa-4628-b708-f16617647897"> 
 </p>
@@ -12,8 +14,10 @@ This is how the device looks from the outside.
 <img width="200px" src="https://github.com/user-attachments/assets/0c780f74-23d0-4845-8fe7-8b9c3b89a3dc"> 
 </p>
 
-## 📍 'On the box' specs.
-<center>
+---
+
+## 📍 Official specifications.
+These are the official specifications for the device, as printed on the box.<center>
 <table>
 <tr>
    <th>Element</th>
@@ -60,7 +64,8 @@ This is how the device looks from the outside.
    <td>DC 12v jack</td>
 </tr>
 </table>
- </center>
+   
+---
 
 ## 📍 The board.
 As I examined the board, I started by gathering information about its components, keeping in mind my limited experience as a hobbyist. Below is a detailed list of the elements I identified on this particular board, as well as the board itself.
@@ -72,9 +77,6 @@ Here are two pictures of the board from top and bottom.
     
 ---  
      
-## Elements on the board.
-Analyzing the board I've found the following elements. 
-
 ## 📍 SOC Processor.
 This processor is a System on Chip (SoC), integrating multiple critical components into a single chip. It combines the CPU, graphics processor, I/O controller, and other essential functions.   
 - Integrated Intel HD Graphics 400.
