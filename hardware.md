@@ -1,33 +1,77 @@
 # :pushpin: Detailed Hardware Analysis
 
-While examining the board, I began by gathering information about its components, given my limited knowledge as a hobbyist. Below is a detailed list of the elements I found on this specific board and the board itself.
-
 ## 📍 The device itself.
 This is how the device looks from the outside.
 <p align="center">
 <img width="800px" src="https://github.com/user-attachments/assets/e08eeedc-fbfa-4628-b708-f16617647897"> 
 </p>
 <p align="center">
-<img width="200px" src="https://github.com/user-attachments/assets/aeed7711-5448-4746-ab1f-9fe2c96458c4">   
-<img width="200px" src="https://github.com/user-attachments/assets/b3d889fb-69be-457d-abc3-7dcea90e2256"> 
-<img width="200px" src="https://github.com/user-attachments/assets/f19dd2ba-5779-414f-b9aa-107edcc12bf7">
-<img width="200px" src="https://github.com/user-attachments/assets/e78f14bc-004f-459d-bfb7-33a29cae0137"> 
+<img width="200px" src="https://github.com/user-attachments/assets/d5d5cbc3-a5b2-4c9b-824a-289a94f84530">   
+<img width="200px" src="https://github.com/user-attachments/assets/dd09755c-f060-4dd9-97b7-e36854786a52"> 
+<img width="200px" src="https://github.com/user-attachments/assets/ce779df7-2cc8-4264-bcb8-7e905e70a64e">
+<img width="200px" src="https://github.com/user-attachments/assets/0c780f74-23d0-4845-8fe7-8b9c3b89a3dc"> 
 </p>
 
-
-
-
-
-
+## 📍 'On the box' specs.
+<center>
+<table>
+<tr>
+   <th>Element</th>
+   <th>Description</th>
+</tr>
+<tr>
+   <td>Processor</td>
+   <td>Intel Atom x5-Z8350 (2M Cache 1.92GHz)</td>
+</tr>
+<tr>
+   <td>GPU</td>
+   <td>Intel HD Grapchis 400</td>
+</tr>
+<tr>
+   <td>Memory</td>
+   <td>DDR3 4GB</td>
+</tr>
+<tr>
+   <td>Storage</td>
+   <td>64GB eMMC</td>
+</tr>
+<tr>
+   <td>Expansions</td>
+   <td> 1 SD Card Slot (limit 128GB)</td>
+</tr>
+<tr>
+   <td>Wireless Connectivity</td>
+   <td>IEEE 802.11ac Dual-band Wi-Fi, Bluetooth</td>
+</tr>
+<tr>
+   <td>Video output</td>
+   <td>1x HDMI + 1x VGA</td>
+</tr>
+<tr>
+   <td>Audio output</td>
+   <td>HDMI, 3.5mm Audio jack</td>
+</tr>
+<tr>
+   <td>Peripherals Interface</td>
+   <td>RJ45 Gbit Eth, Port x1 USB 3.0 , Port x2 USB 2.0 </td>
+</tr>
+<tr>
+   <td>Power input</td>
+   <td>DC 12v jack</td>
+</tr>
+</table>
+ </center>
 
 ## 📍 The board.
+As I examined the board, I started by gathering information about its components, keeping in mind my limited experience as a hobbyist. Below is a detailed list of the elements I identified on this particular board, as well as the board itself.
 Here are two pictures of the board from top and bottom.   
 <p align="center">
    <img width="500px" src="https://github.com/user-attachments/assets/741e528a-f210-4b78-8e00-0d0bb60bde43">
    <img width="500px" src="https://github.com/user-attachments/assets/0c0785cd-02ea-41ee-9494-d15b38486834">
 </p> 
----
-   
+    
+---  
+     
 ## Elements on the board.
 Analyzing the board I've found the following elements. 
 
