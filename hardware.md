@@ -316,6 +316,45 @@ The ALC5651 is a high performance, low power, dual I2S interface audio CODEC.
 
 ---  
    
+## 📍 Power management IC.
+PMIC Optimized for Multi-core high-performance system. This PMIC is customized for Intel Cherry Trail platforms.
+
+    
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td>APX288C</td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td>Power management IC</td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td></td>
+                          </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td>X-powers</td>
+                          </tr>
+                          <tr>
+                                  <td>Packaging</td>
+                                  <td>76-pin QFN</td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src=""></p>
+                  <p align="center" > <a href="https://dl.radxa.com/rockpix/docs/hw/AXP288C-X-Powers.pdf">Datasheet<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
+
 
 ## 📍 Title.
 Description.
