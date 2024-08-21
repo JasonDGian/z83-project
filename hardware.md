@@ -285,6 +285,63 @@ The RTL8111F is a Gigabit Ethernet controller designed for PCI Express, offering
    
 ---  
 
+## 📍 Wireless Network Interface.
+WiFi 11ac + Bluetooth V4.2 module.
+The wireless module complies with IEEE 802.11 a/b/g/n/ac standard and it can achieve up
+to a speed of 433.3Mbps with single stream in 802.11ac draft to connect to the wireless LAN.
+The integrated module provides SDIO interface for Wi-Fi, UART / PCM interface for
+Bluetooth.
+- Concurrent Bluetooth, and WLAN operation
+<table>
+      <tr>
+          <td> 
+                  <table>
+                          <tr>
+                                  <td>Name</td>
+                                  <td>AMPAK Tech AP6255 </td>
+                          </tr>
+                          <tr>
+                                  <td>Type</td>
+                                  <td>Support Wi-Fi/Bluetooth functionalities</td>
+                          </tr>
+                          <tr>
+                                  <td>WiFi interface.</td>
+                                  <td>SDIO v2.0 / v3.0</td>
+                          </tr>
+                          <tr>
+                                  <td>Bluetooth Interface</td>
+                                  <td>UART / PCM</td>
+                          </tr>
+                          <tr>
+                                  <td>Frequency</td>
+                                  <td>2.4GHz</td>
+                          </tr>
+                          <tr>
+                                  <td>Operating temperature</td>
+                                  <td>-30℃~+85℃</td>
+                          </tr>
+                          <tr>
+                                  <td>Speed</td>
+                                  <td>Up to 433.3Mbps</td>
+                          </tr>
+                          <tr>
+                                  <td>Support Interface</td>
+                                  <td>On-Board PCB Antenna</td>
+                          </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td>AMPAK Tech</td>
+                          </tr>
+                  </table> 
+          </td>
+          <td>
+                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/1ca800ca-1221-4200-a09e-737ed33d607c"></p>
+                  <p align="center" > <a href="https://www.lcsc.com/datasheet/lcsc_datasheet_2202221430_AMPAK-Tech-AP6255_C2687149.pdf">Datasheet<a/></p>  
+          </td>
+      </tr>
+</table>
+   
+---  
    
 ## 📍 Sound card.
 The ALC5651 is a high performance, low power, dual I2S interface audio CODEC.
@@ -388,66 +445,6 @@ Code Storage Flash Memory: This chip is widely used in consumer electronics, aut
 </table>
    
 ---  
-
-
-## 📍 Wireless Network Interface.
-WiFi 11ac + Bluetooth V4.2 module.
-The wireless module complies with IEEE 802.11 a/b/g/n/ac standard and it can achieve up
-to a speed of 433.3Mbps with single stream in 802.11ac draft to connect to the wireless LAN.
-The integrated module provides SDIO interface for Wi-Fi, UART / PCM interface for
-Bluetooth.
-- Concurrent Bluetooth, and WLAN operation
-<table>
-      <tr>
-          <td> 
-                  <table>
-                          <tr>
-                                  <td>Name</td>
-                                  <td>AMPAK Tech AP6255 </td>
-                          </tr>
-                          <tr>
-                                  <td>Type</td>
-                                  <td>Support Wi-Fi/Bluetooth functionalities</td>
-                          </tr>
-                          <tr>
-                                  <td>WiFi interface.</td>
-                                  <td>SDIO v2.0 / v3.0</td>
-                          </tr>
-                          <tr>
-                                  <td>Bluetooth Interface</td>
-                                  <td>UART / PCM</td>
-                          </tr>
-                          <tr>
-                                  <td>Frequency</td>
-                                  <td>2.4GHz</td>
-                          </tr>
-                          <tr>
-                                  <td>Operating temperature</td>
-                                  <td>-30℃~+85℃</td>
-                          </tr>
-                          <tr>
-                                  <td>Speed</td>
-                                  <td>Up to 433.3Mbps</td>
-                          </tr>
-                          <tr>
-                                  <td>Support Interface</td>
-                                  <td>On-Board PCB Antenna</td>
-                          </tr>
-                          <tr>
-                                  <td>Manufacturer</td>
-                                  <td>AMPAK Tech</td>
-                          </tr>
-                  </table> 
-          </td>
-          <td>
-                  <p align="center"> <img align="right" height="190px" src="https://github.com/user-attachments/assets/1ca800ca-1221-4200-a09e-737ed33d607c"></p>
-                  <p align="center" > <a href="https://www.lcsc.com/datasheet/lcsc_datasheet_2202221430_AMPAK-Tech-AP6255_C2687149.pdf">Datasheet<a/></p>  
-          </td>
-      </tr>
-</table>
-   
----  
-
 
 ## 📍 Title.
 Description.
