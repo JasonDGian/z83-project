@@ -270,6 +270,10 @@ The RTL8111F is a Gigabit Ethernet controller designed for PCI Express, offering
                                   <td>Speed</td>
                                   <td>10/100/1000Mbps</td>
                           </tr>
+                          <tr>
+                                  <td>Manufacturer</td>
+                                  <td>Realtek Semiconductor Corp.</td>
+                          </tr>
                   </table> 
           </td>
           <td>
@@ -283,7 +287,7 @@ The RTL8111F is a Gigabit Ethernet controller designed for PCI Express, offering
 
    
 ## 📍 Sound card.
-The ALC5651 is a high performance, low power, dual I2S interface audio CODEC. First I2S interface can support dual mode: normal I2S and I2S with TDM (Time Division Multiplexing) interface. ALC5651 only requires two voltage supplies and consume ultra low power, making it ideal for mobile devices.   
+The ALC5651 is a high performance, low power, dual I2S interface audio CODEC.
     
 <table>
       <tr>
