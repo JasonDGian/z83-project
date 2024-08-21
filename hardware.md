@@ -446,46 +446,20 @@ Code Storage Flash Memory: This chip is widely used in consumer electronics, aut
    
 ---  
 
-## 📍 Title.
-Description.
-    
-<table>
-      <tr>
-          <td> 
-                  <table>
-                          <tr>
-                                  <td>Name</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td>Type</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td>Frequency</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td>Manufacturer</td>
-                                  <td></td>
-                          </tr>
-                          <tr>
-                                  <td>Packaging</td>
-                                  <td></td>
-                          </tr>
-                  </table> 
-          </td>
-          <td>
-                  <p align="center"> <img align="right" height="190px" src=""></p>
-                  <p align="center" > <a href="">Official site<a/></p>  
-          </td>
-      </tr>
-</table>
+## 📍 WiFi Antenna.
+This antenna serves both WiFi and Bluetooth functions, as it is connected to and controlled by the same device. The antenna is attached to the board using a drop of hot glue and a piece of black rubber or foam secured with double-sided tape. I detached the antenna from the board and removed the black foam material to inspect the reverse side. There is no controller or any logic management chip present; it functions purely as an antenna.
+
+<p align="center">
+<img width="800px" src="https://github.com/user-attachments/assets/c102911e-3a95-42ae-8e18-e440f4edf494"> 
+</p>
+<p align="center">
+   <img width="275px" src="https://github.com/user-attachments/assets/631413da-7754-4190-b0ff-e3f21d2e0842">    
+   <img width="275px" src="https://github.com/user-attachments/assets/9d87d33c-f929-4d48-8acb-b7cd4f2a36c9">
+   <img width="275px" src="https://github.com/user-attachments/assets/6c14b93d-6217-45c4-a454-876315cf1e50">
+</p>
+
    
 ---  
-
-
-   https://pdf1.alldatasheet.com/datasheet-pdf/view/1132504/XPOWER/AXP288C.html
 
 
 
