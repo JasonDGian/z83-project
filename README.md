@@ -83,5 +83,6 @@ In my toolkit, I have an FDM 3D printer, a resin printer, several photo printers
 
 ##  :hammer_and_wrench: The project progress.
 Check out my progress and current results!
+- [Hardware analysis.](hardware.md)
 - [Cooling improvements.](cooling.md)
 - 
