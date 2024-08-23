@@ -72,17 +72,17 @@ The Z83-F supports Wi-Fi (2.4GHz/5.8GHz) and Bluetooth 4.0 for seamless wireless
 ## :checkered_flag: Objectives
 Initially focused on just enhancing the cooling system, the project evolved as new ideas and changes emerged. The updated objectives are:
 
-- **Enhance the Cooling System:** Lower temperatures and prevent sudden shutdowns.
-- **Switch to a Lighter OS:** Replace Windows 10 Pro with a more efficient operating system better suited for low-resource machines.
-- **Resolve Wi-Fi Compatibility Issues:** Fix any connectivity problems.
-- **Extend Storage Capacity:** Increase the available storage.
-- **Improve the Casing:** Upgrade the case to accommodate the new components and protect the hardware.
+- **Enhance the Cooling System:** Lower operating temperatures to prevent overheating and eliminate sudden shutdowns.
+- **Switch to a Lighter OS:** Replace Windows 10 Pro with a more efficient, low-resource operating system better suited for this machine.
+- **Resolve Wi-Fi Compatibility Issues:** Address and fix any existing Wi-Fi compatibility and connectivity problems.
+- **Extend Storage Capacity:** Increase the available storage to support the machine's dual role as a centralized SFTP server and media center within the home network.
+- **Improve the Casing:** Upgrade the case to not only accommodate the upgraded components but also improve airflow, ensuring the new elements are efficiently integrated into the system and propperly cooled.
 
 ## :construction: Available Tools
-In my toolkit, I have an FDM 3D printer, a resin printer, several photo printers, and a range of electronics and software tools. Additionally, I’ll be utilizing spare parts such as 40mm and 30mm fans, Wi-Fi cards, sound cards, and more.
+Building on my years of experience as a tech enthusiast and hobbyist, I have a well-equipped toolkit at my disposal. This includes an FDM 3D printer, a resin printer, several photo printers, and a variety of electronics and software tools. Additionally, I'll be making use of spare parts like 40mm and 30mm fans, Wi-Fi cards, sound cards, and more.
 
 ##  :hammer_and_wrench: The project progress.
 Check out my progress and current results!
 - [Hardware analysis.](hardware.md)
 - [Cooling improvements.](cooling.md)
-- 
+- [Installing a new OS](os-install.md)
