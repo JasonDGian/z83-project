@@ -2,7 +2,7 @@
 One of the main issues with the device is its tendency to overheat quickly, particularly with the pre-installed Windows 10 Pro, which causes frequent freezes and even shutdowns. I suspect that overheating, combined with the device's limited RAM, is the root cause of these problems. This document will track my progress in addressing these cooling issues.
 
 ## 💻 Installing a new OS
-Before I installed any cooling modifications I decided to change the OS to a lighter one since Windows 10 Pro was simply too much for the machine to handle. That process is documented [here](os-install.md).
+Before I installed any cooling modifications I decided to change the OS to a lighter one since Windows 10 Pro was simply too much for the machine to handle. The new OS installation process is documented [here](os-install.md).
 
 ## 🌡️ Non-cooled temperatures test.
 After instalilng a new and lighter operating system, things went much better so i decided to run an initial test on the new OS temperatures.
