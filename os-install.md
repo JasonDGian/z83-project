@@ -1,18 +1,74 @@
-# 📌 Installing a new OS.
-The pre-loaded Windows 10 Pro was simply too much for the machine. It kept slowing down and freezing constantly and the overall experience with a simple web browser like Vivaldi was inssuferable, therefore i decided that one of the first things to do was install a new operating system with lower requireements and with less bloatware.
+# :pushpin: Installing a new Operating System - Why?
+The pre-installed Windows 10 Pro on this machine has caused significant performance issues. The hardware struggles to meet the OS's high demands, resulting in constant slowdowns, frequent freezes, and occasional unexpected shutdowns. **Even basic tasks, like web browsing with Vivaldi** (lightweight browser)**, are frustratingly slow**. Recognizing that the machine was unable to handle the demands of this OS effectively, I decided to switch to a lighter operating system that would be more compatible with my hardware. This change was made in hopes of achieving better performance and managing temperatures more effectively.
 
-## Choosing the new OS.
-This was quite a task. I started reading online and asking in forums for other user's experiences with this device, if someone had tested any OS with it and if were there any compatibility issues known to them. Among the candidates I took notice of the following linux distributions.
+## :mag: Choosing the new OS.
+This proved to be quite a task. I began by researching online and asking in forums about other users' experiences with this specific type of device. I wanted to know if anyone had tested different operating systems on it and whether they encountered any compatibility issues. To be brutally honest, aside from one user who confirmed success with Linux Mint, I received little to no feedback. It seemed either no one had tried this before, or they simply didn't care enough to respond.
+
+With limited guidance, aside from a good friend of mine, I started searching for lightweight operating systems on my own **and decided to test compatibility issues later on**. Among the candidates, I identified several Linux distributions that seem to work quite well for low-spec and older hardware.
+
 - Lubuntu - https://lubuntu.me/
-- PuppyOs - https://puppylinux-woof-ce.github.io/
+- Puppy Linux - https://puppylinux-woof-ce.github.io/
 - Antix - https://antixlinux.com/
 - MiniOS - https://minios.dev/es/
-- Android - https://www.android.com/versions/kit-kat-4-4/
 - Linux Mint - https://linuxmint.com/
 - Bodhi - https://www.bodhilinux.com/
+- TinyCore - http://tinycorelinux.net/
+- Android 5.1 - https://en.wikipedia.org/wiki/Android_Lollipop
 
-Most of these distros are lightweight and are great for low specs devices like mine, they can give new life to old hardware. The problem i found with most of these distros is compatibility issues with the NAND
-storage and the wifi card. Antix seemed to be one of the best candidates alongside Lubuntu. MiniOs, Bodhi, and PuppyOS gave me constant trouble during installation because they were unable to detect the 
-eMMC nand storage as a valid destination 
-for the installation. 
+Many of these distributions are lightweight and, when paired with the right desktop environment, are perfect for low-spec devices like mine. They can give new life to old hardware.
 
+## :wrench: Tools used for the installation.
+I used Ventoy to make installing the new OS easier. It allowed me to _drag and drop_ multiple ISO files on one USB drive, so I could test and install different operating systems without having to make a new bootable USB every time. This software has been incredibly handy for managing the installation process.
+[Ventoy site](https://www.ventoy.net/en/index.html).
+
+## :floppy_disk: Installing the new OS.
+This task turned out to be more tedious than I expected. I ran into compatibility issues with most of the distros, particularly with the eMMC storage and the Wi-Fi and Bluetooth card. Antix and Lubuntu seemed to be the best options, while MiniOS, Bodhi, and PuppyOS and pretty much all the others, constantly struggled during installation, as they couldn't recognize the eMMC storage as a valid install destination.
+
+### :clipboard: Here are the results of my testing
+<table>
+    <tr>
+        <th>Operating System</th>
+        <th>eMMC compatible</th>
+        <th>Wifi card compatible</th>
+    </tr>
+    <tr>
+        <td>Lubuntu</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Puippy Linux</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>AntiX</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>MiniOS</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Linux Mint</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Bodhi</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>TinyCore</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Android 5.1</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
