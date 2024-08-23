@@ -1,5 +1,5 @@
 # 📌 Improving the Cooling System
-One of the main issues with the device is its tendency to overheat quickly, particularly with the pre-installed Windows 10 Pro, which causes frequent freezes and even shutdowns. I suspect that overheating, combined with the device's limited RAM, is the root cause of these problems. This document will track my progress in addressing these overheating issues.
+One of the main issues with the device is its tendency to overheat quickly, particularly with the pre-installed Windows 10 Pro, which causes frequent freezes and even shutdowns. I suspect that overheating, combined with the device's limited RAM, is the root cause of these problems. This document will track my progress in addressing these temperature issues.
 
 ## 💻 Installing a new OS
 Before I installed any cooling modifications I decided to change the OS to a lighter one since Windows 10 Pro was simply too much for the machine to handle. The new OS installation process is documented [here](os-install.md).
