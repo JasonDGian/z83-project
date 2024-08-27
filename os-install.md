@@ -20,7 +20,7 @@ With limited guidance, aside from a good friend's help, I started searching for 
 Many of these distributions are lightweight and, when paired with the right desktop environment, are perfect for low-spec devices like mine. They can give new life to old hardware.
 
 ## :wrench: Tools used for the installation.
-I used Ventoy to make installing the new OS easier. It allowed me to _drag and drop_ multiple ISO files on one USB drive, so I could test and install different operating systems without having to make a new bootable USB every time. This software has been incredibly handy for managing the installation process.
+I used **Ventoy** to make the installation easier. It allowed me to _drag and drop_ multiple ISO files on one USB drive, so I could test and install different operating systems without having to make a new bootable USB every time. This software has been incredibly handy for managing the installation process.
 [Ventoy site](https://www.ventoy.net/en/index.html).
 
 ## :floppy_disk: Installing the new OS.
