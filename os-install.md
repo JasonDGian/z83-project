@@ -5,7 +5,7 @@ The pre-installed Windows 10 Pro on this machine has caused significant performa
 **Has this been done before?**    
 I began by researching online and asking in forums about other users' experiences with this specific type of device. I wanted to know if anyone had tested different operating systems on it and whether they encountered any compatibility issues. To be brutally honest, aside from one user who confirmed limited success with Linux Mint (compatibility issues), I received little to no feedback. It seemed either no one had tried this before, or they simply didn't care enough to respond.
 
-With limited guidance, aside from a good friend of mine, I started searching for lightweight operating systems on my own **and decided to test compatibility issues later on**. Among the candidates, I identified several Linux distributions that seem to work quite well for low-spec and older hardware.
+With limited guidance, aside from a good friend's help, I started searching for lightweight operating systems on my own **and decided to test compatibility issues later on**. Among the candidates, I identified several Linux distributions that seem to work quite well for low-spec and older hardware.
 
 - Lubuntu - https://lubuntu.me/
 - Puppy Linux - https://puppylinux-woof-ce.github.io/
