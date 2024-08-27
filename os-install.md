@@ -2,7 +2,8 @@
 The pre-installed Windows 10 Pro on this machine has caused significant performance issues. The hardware struggles to meet the OS's high demands, resulting in constant slowdowns, frequent freezes, and occasional unexpected shutdowns. **Even basic tasks, like web browsing with Vivaldi** (lightweight browser)**, are frustratingly slow**. Recognizing that the machine was unable to handle the demands of this OS effectively, I decided to switch to a lighter operating system that would be more compatible with the hardware. **This change was made in hopes of achieving better performance and managing temperatures more effectively.**
 
 ## :mag: Choosing the new OS.
-This proved to be quite a task. I began by researching online and asking in forums about other users' experiences with this specific type of device. I wanted to know if anyone had tested different operating systems on it and whether they encountered any compatibility issues. To be brutally honest, aside from one user who confirmed success with Linux Mint, I received little to no feedback. It seemed either no one had tried this before, or they simply didn't care enough to respond.
+**Has this been done before?**    
+I began by researching online and asking in forums about other users' experiences with this specific type of device. I wanted to know if anyone had tested different operating systems on it and whether they encountered any compatibility issues. To be brutally honest, aside from one user who confirmed limited success with Linux Mint (compatibility issues), I received little to no feedback. It seemed either no one had tried this before, or they simply didn't care enough to respond.
 
 With limited guidance, aside from a good friend of mine, I started searching for lightweight operating systems on my own **and decided to test compatibility issues later on**. Among the candidates, I identified several Linux distributions that seem to work quite well for low-spec and older hardware.
 
